@@ -1,3 +1,7 @@
+## About Application
+
+This is a simple stateless microservice in Nodejs that renders Authentication, Json patching and Image Thumbnail generation.
+
 ## Running Application
 
 * Download or Clone the repo https://github.com/ugbechike/hackerbay-backend
